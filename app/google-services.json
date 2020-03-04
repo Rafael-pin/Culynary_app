@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "490000462485",
+    "firebase_url": "https://culinary-2.firebaseio.com",
+    "project_id": "culinary-2",
+    "storage_bucket": "culinary-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490000462485:android:765638ff0ac3f122",
+        "android_client_info": {
+          "package_name": "bocolly.pinheiro.culinary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490000462485-jo84al2sk0t38jmhvob86jecqb9bp0il.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxjNcr6PqfGby5bpf9tc3wucaWnjfWj6k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Culinary</string>
+    <string name="action_settings">Settings</string>
+    <string name="lo_et_user">User</string>
+    <string name="lo_et_password">Password</string>
+    <string name="lo_et_login">Log in</string>
+
+    <string name="re_tv_register">Register new recipe</string>
+    <string name="re_et_name">Name</string>
+    <string name="re_et_author">Author</string>
+    <string name="re_et_ingredients">Ingredients</string>
+    <string name="re_et_preparation">Method of preparation</string>
+    <string name="re_bt_register">Register</string>
+    <string name="sr_tv_title">Sweet Recipes</string>
+    <string name="salty_tv_title">Salty Recipes</string>
+    <string name="rs_bt_view">View recipe</string>
+    <string name="search_et_name">Enter the name</string>
+    <string name="search_bt_search">Search</string>
+
+    <string-array name="re_sp_type">
+        <item>Select a type</item>
+        <item>Sweet</item>
+        <item>Salty</item>
+    </string-array>
+</resources>
